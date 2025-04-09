@@ -1,12 +1,13 @@
 # Hi there, I'm Abdul Raqeeb 👋
 
-## Agentic AI Developer
-
-### Building Intelligent AI Applications
+## Agentic AI Developer | Building Intelligent AI Applications
 
 Specializing in OpenAI-Agents SDK, CrewAI, Microservices, Docker, FastAPI, and creating AI applications
 
-[LinkedIn](https://www.linkedin.com/in/abdul-raqeeb) | [GitHub](https://github.com/rageebniz)
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdul-raqeeb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/rageebniz" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ## Tech Stack 🛠️
 
@@ -20,14 +21,14 @@ Specializing in OpenAI-Agents SDK, CrewAI, Microservices, Docker, FastAPI, and c
 
 Hey there! I'm Abdul Raqeeb, an Agentic AI Developer passionate about building intelligent AI applications. I specialize in leveraging tools like OpenAI-Agents SDK, CrewAI, and FastAPI to create scalable microservices and autonomous systems. My expertise lies in integrating technologies like Docker to streamline development and deployment, ensuring efficient and robust AI solutions.
 
-- 🔭 I’m currently working on developing autonomous AI agents and integrating them with scalable microservices.
-- 🌱 I’m currently learning more about advanced AI architectures and exploring the latest in Agentic AI development.
-- 👯 I’m looking to collaborate on innovative AI projects, especially those involving AI agents, automation, and scalable backends.
-- 🤔 I’m looking for help with optimizing AI deployment pipelines and improving the performance of autonomous systems.
-- 💬 Ask me about anything related to AI, microservices, Docker, FastAPI, or Agentic AI!
-- 📫 How to reach me: Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/abdul-raqeeb) or by opening an issue here on GitHub.
+- 🔭 I’m currently working on developing autonomous AI agents and scalable systems with OpenAI-Agents SDK, CrewAI, and Docker.
+- 🌱 I’m learning more about advanced AI architectures, cloud-native AI solutions, and cutting-edge technologies.
+- 👯 I’m looking to collaborate on AI-driven projects, microservices development, and containerized AI applications.
+- 🤔 I’m looking for help with expanding my knowledge in optimizing autonomous agents and building more sophisticated AI systems.
+- 💬 Ask me about AI, microservices, Docker, FastAPI, and autonomous agents!
+- 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/abdul-raqeeb) or [GitHub](https://github.com/rageebniz).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m always exploring new ways to integrate AI into everyday applications to make life smarter and easier.
+- ⚡ Fun fact: I love exploring new AI technologies and finding creative ways to solve problems with code!
 
 ## Skills & Expertise 💪
 
